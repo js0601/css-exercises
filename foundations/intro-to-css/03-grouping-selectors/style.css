@@ -1,0 +1,14 @@
+.eins,
+.swei {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.eins {
+    background-color: black;
+    color: white
+}
+
+.swei {
+    background-color: yellow;
+}
